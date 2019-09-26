@@ -5,3 +5,14 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+require 'faker'
+
+data = ActiveSupport::JSON.decode(File.read("db/sample.json"))
+data.each do |attributes|
+  Location.create!(
+    city: attributes['city'],
+    country: attributes['country'],
+    latitude: attributes['lat'],
+    longitude: attributes['lng']
+  )
+end
