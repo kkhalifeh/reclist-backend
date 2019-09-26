@@ -3,60 +3,70 @@
     "city": "New York",
     "country": "United States",
     "lat": 40.6943,
-    "lng": -73.9249
+    "lng": -73.9249,
+    "image": "https://www.tripsavvy.com/thmb/m3xj8Q2HDku_Ci176w_mJIvAk6w=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-494607942-nyc-58f120903df78cd3fc2759ad.jpg"
   },
   {
     "city": "London",
     "country": "United Kingdom",
     "lat": 51.5,
-    "lng": -0.1167
+    "lng": -0.1167,
+    "image": "https://cdn.londonandpartners.com/assets/73295-640x360-london-skyline-ns.jpg"
   },
   {
     "city": "Miami",
     "country": "United States",
     "lat": 25.784,
-    "lng": -80.2102
+    "lng": -80.2102,
+    "image": "http://www.oceanicarealestate.com/content/uploads/2015/09/Miami-Beach-Florida-1_photo.jpg"
   },
   {
     "city": "Paris",
     "country": "France",
     "lat": 48.8667,
-    "lng": 2.3333
+    "lng": 2.3333,
+    "image": "https://www.worldtravelguide.net/wp-content/uploads/2017/10/shu-EDITORIAL-France-Paris-Arc-de-Triomphe-491961382-Kuba-Barzycki-1440x823.jpg"
   },
   {
     "city": "Athens",
     "country": "Greece",
     "lat": 37.9833,
-    "lng": 23.7333
+    "lng": 23.7333,
+    "image": "https://santorinidave.com/files/2018/05/athens-travel-guide.jpg"
   },
   {
     "city": "Dubai",
     "country": "United Arab Emirates",
     "lat": 25.23,
-    "lng": 55.28
+    "lng": 55.28,
+    "image": "https://images.khaleejtimes.com/storyimage/KT/20190725/ARTICLE/190729562/AR/0/AR-190729562.jpg&MaxW=780&imageVersion=16by9&NCS_modified=&exif=.jpg"
   },
   {
     "city": "Rome",
     "country": "Italy",
     "lat": 41.896,
-    "lng": 12.4833
+    "lng": 12.4833,
+    "image": "https://transferwise-blog.s3.amazonaws.com/currency-exchange-rome-italy.jpg"
   },
   {
     "city": "Beirut",
     "country": "Lebanon",
     "lat": 33.872,
-    "lng": 35.5097
+    "lng": 35.5097,
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/15/11/istock-461976569-0.jpg?w968h681"
   },
   {
     "city": "Philadelphia",
     "country": "United States",
     "lat": 40.0076,
-    "lng": -75.134
+    "lng": -75.134,
+    "image": "https://voicefoundation.org/wp-content/uploads/2016/06/philadelphia-skyline-2013-2014-680uw.jpg"
   },
   {
     "city": "Seoul",
     "country": "Korea, South",
     "lat": 37.5663,
-    "lng": 126.9997
+    "lng": 126.9997,
+    "image": "https://ak3.picdn.net/shutterstock/videos/31023643/thumb/1.jpg"
   }
 ]

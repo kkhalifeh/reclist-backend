@@ -13,6 +13,7 @@ data.each do |attributes|
     city: attributes['city'],
     country: attributes['country'],
     latitude: attributes['lat'],
-    longitude: attributes['lng']
+    longitude: attributes['lng'],
+    image: attributes['image']
   )
 end
